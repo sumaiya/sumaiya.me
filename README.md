@@ -1,2 +1,1 @@
-sumaiya.me
-==========
+A personal website.
