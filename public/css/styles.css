@@ -1,0 +1,59 @@
+body {
+      margin: 0;
+
+      color: #333333;
+      background-color: #ffffff;
+      background: url(../images/subtle_grunge.png) repeat 0 0;
+    }
+    
+    h1, h2, h3, h4, h5, h6 {
+        font-family: 'Raleway', Helvetica, Arial, sans-serif;
+        line-height: 50px;
+    }
+    
+    p, div {
+        font-family: 'Ubuntu', Georgia, Times, serif;
+        font-size: 20px;
+        line-height: 20px;
+    }
+    
+    .hero-unit {
+      text-align:center;
+      padding: 100px;
+      margin-bottom: 0px;
+      font-size: 30px;
+      font-weight: 200;
+      line-height: 30px;
+      color: inherit;
+      background-color: #eeeeee;
+      background-image:url(../images/blurred.png);
+      -webkit-border-radius: 6px;
+         -moz-border-radius: 6px;
+              border-radius: 6px;
+    }
+
+    .hero-unit h1 {
+      margin-bottom: 0;
+      font-size: 75px;
+      line-height: 1.5;
+      letter-spacing: 2.5px;
+      color: inherit;
+    }
+
+    .hero-unit p {
+      margin-bottom: 0;
+      font-size: 30px;
+      line-height: 2;
+      letter-spacing: 1px;
+      color: inherit;
+    }
+
+    .hero-unit li {
+      line-height: 100px;
+      margin-top:0px;
+      vertical-align:middle;
+      letter-spacing: 1px;
+    }
+
+    
+    

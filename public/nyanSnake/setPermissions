@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#/bin/cp *.class *.html ~/public_html/
+#/bin/cp *.au *.txt *.gif ~/public_html/
+#chmod ugo+rx ~/public_html/*
+chmod go-r ./*.java
+chmod ugo+rx ./*.class ./*.html ./*.au ./*.gif
+
+
